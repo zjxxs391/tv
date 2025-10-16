@@ -1,17 +1,3 @@
 央视频道,#genre#
-CCTV4,http://124.128.73.58:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://124.128.73.58:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://101.74.28.151:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视频道,#genre#
-宁夏卫视,http://124.128.73.58:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://101.74.28.151:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://101.74.28.151:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://101.74.28.151:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://124.128.73.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://124.128.73.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://101.74.28.151:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://124.128.73.58:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://124.128.73.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 其他频道,#genre#
-山东体育,http://124.128.73.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-河北影视,http://101.74.28.151:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
